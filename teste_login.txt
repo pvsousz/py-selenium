@@ -1,0 +1,12 @@
+1 -Login com usuário e senha válidos
+Verificar se foi para a página de Products
+
+
+2 - Adição de produtos ao carrinho
+Adicionar um produto ao carrinho e verificar que foi adicionado corretamente, voltar e adicionar mais um produto
+
+3 - Fazer uma compra com 1 produtos no carrinho
+Verificar que a compra foi feita com sucesso
+
+4 - Fazer uma compra com 2 produtos no carrinho
+Verificar quea  compra foi feita com sucesso

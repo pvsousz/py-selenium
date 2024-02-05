@@ -1,0 +1,17 @@
+
+
+pytest test_nome_pytest.py
+
+Vai aumentar a quantidade de informação
+pytest -v test_nome_pytest.py
+
+Ativar test via marcação
+import pytest
+-m
+# marcação
+@pytest.mark.simulacao
+
+
+-v testar
+
+-m (nome da marcação que deseja iniciar)
